@@ -39,9 +39,9 @@ We are implementing a dynamic simulation of couple neural oscillators using the 
     * Observe the oscillator phases on the unit circle and how synchronization (order parameter r) evolves over time
 
 **Examples**
-
+![OUTPUT](ossssss.gif)
 
 **Future extensions**
- * implement noise effecrs and hetergeneous network topologies
+ * implement noise effects and hetergeneous network topologies
  * Incorporate real neural data for comparison
  * Enhance interactivity with parameter sweeps, phase histograms, and export features 
